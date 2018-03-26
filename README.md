@@ -6,24 +6,14 @@
 
 2. Launch Android Studio
 
-3. Choose ‘Open an existing Android Studio Project’ Open and Run the app
+3. Choose ‘Open an existing Android Studio Project’, Open and Run the app
 
-
-#### PlivoPhone
-
-A sample application to demonstrate basic phone registration.
 
 #####Pre-requisites
 
 1. [Plivo Account](https://manage.plivo.com/accounts/register/)
 
 2. [Create an endpoint with a username and a password.](https://manage.plivo.com/endpoint/create/)
-
-
-#####Pre-requisites
-
-1. Plivo Account
-2. Create an endpoint with a username and a password.
 
 
 #####Get started

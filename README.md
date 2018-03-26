@@ -21,7 +21,7 @@
 1. Launch the application from Android Studio.
 2. Enter the username and password of your endpoint when prompted for.
 	
-#####VoiceCallingApp 
+#####VoiceCallingApp shows you
 
 1. How to register your your SDK to Plivo. This is the first step to make and receive calls from the Android SDK.
 2. How to make outbound calls from your app using the Android SDK.

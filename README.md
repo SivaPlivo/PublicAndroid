@@ -1,11 +1,41 @@
-# VoiceCalling
-Android Sample app for Plivo Android Voice SDK. By using this app users can make Voice calls to SIP and PSTN endpoints.
+## Android Sample App for Voice Calling
 
-Plivo SDKs let you integrate voice natively in the browser and mobile devices. We have the set of following SDKs based on the device you are planning to create your app.
+### Get Started
 
-Android SDK
-Integrate voice with your Android App and create Voice enabled Android apps
+1. Clone this repo
 
-Click on below for more info
+2. Launch Android Studio
 
-https://www.plivo.com/docs/sdk/
+3. Choose ‘Open an existing Android Studio Project’ Open and Run the app
+
+
+#### PlivoPhone
+
+A sample application to demonstrate basic phone registration.
+
+#####Pre-requisites
+
+1. [Plivo Account](https://manage.plivo.com/accounts/register/)
+
+2. [Create an endpoint with a username and a password.](https://manage.plivo.com/endpoint/create/)
+
+
+#####Pre-requisites
+
+1. Plivo Account
+2. Create an endpoint with a username and a password.
+
+
+#####Get started
+	
+1. Launch the application from Android Studio.
+2. Enter the username and password of your endpoint when prompted for.
+	
+#####VoiceCallingApp 
+
+1. How to register your your SDK to Plivo. This is the first step to make and receive calls from the Android SDK.
+2. How to make outbound calls from your app using the Android SDK.
+3. How to receive inbound calls on your app using the Android SDK.
+
+Reference link: [Android SDK Documentation](https://www.plivo.com/docs/sdk/android/)
+
